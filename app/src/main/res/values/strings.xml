@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YesFace</string>
+    <string name="nav_header_title">User Name</string>
+    <string name="nav_header_subtitle">user@example.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

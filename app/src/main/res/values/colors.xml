@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_pink">#FFF3F0</color>
+    <color name="dark_gray">#4A4A4A</color>
+    <color name="light_gray">#9E9E9E</color>
+    <color name="rose_gold">#E2AFAF</color>
+    <color name="rose_gold_dark">#D28A8A</color>
+    <color name="rose_gold_light">#F6D8D8</color>
+    <color name="checked_color">#F6D8D8</color> <!-- Green color for checked state -->
+    <color name="unchecked_color">#D3D3D3</color> <!-- Light gray for unchecked state -->
+
+</resources>
